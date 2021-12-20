@@ -1,0 +1,15 @@
+node_modules
+dist
+.project
+.DS_Store
+.settings
+.externalToolBuilders
+tmp
+testem.log
+npm-debug.log
+tmp
+dist
+*.log
+coverage.html
+coverage/
+.nyc_output/
